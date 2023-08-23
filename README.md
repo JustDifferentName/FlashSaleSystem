@@ -1,0 +1,2 @@
+# FlashSaleSystem
+基于golang的电商网站高并发秒杀系统
